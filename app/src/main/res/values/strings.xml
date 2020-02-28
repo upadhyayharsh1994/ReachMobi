@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ReachMobiCase</string>
+    <string name="last_event">Last Five Events</string>
+    <string name="next_event">Next Five Events</string>
+</resources>
